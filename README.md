@@ -10,7 +10,7 @@ This repository contains an analysis of car insurance policies data, aimed at de
 - `notebooks/`: Includes Jupyter notebooks with the data analysis, insights generation, and visualization steps.
 - `visualizations/`: Contains visualizations generated during the analysis.
 ## Visualization
-![]()
+![](Presentation1.png)
 ## Insights
 
 1. **Claim Frequency Distribution:**
